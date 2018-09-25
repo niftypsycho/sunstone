@@ -4,5 +4,6 @@ Very lightweight and modular battery powered weather station.  Solar panel recha
 
 # Prerequisites
 The following are needed to power the weather station:
-> 2W or greater solar panel
+> 2W or greater solar panel  
+
 > 3.7V Li-ion battery with capacity greater or equal to 1Ah
